@@ -1,0 +1,4 @@
+baseURL = "https://blog.openstates.org/"
+languageCode = "en-us"
+title = "Open States Updates"
+theme = "ananke"
