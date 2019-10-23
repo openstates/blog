@@ -1,10 +1,8 @@
-url: https://blog.openstates.org/google-summer-of-code-improved-data-tools-56b879faecc1
-date: Thu Aug 17 2017 14:35:32 GMT-0400 (Eastern Daylight Time)
-
-
-# Google Summer of Code — Improved Data Tools
-
-originally published May 28, 2017
+---
+date: 2017-05-28
+author: hitesh
+title: Google Summer of Code — Improved Data Tools
+---
 
 Hello, Universe!
 

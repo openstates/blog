@@ -1,10 +1,9 @@
-url: https://blog.openstates.org/open-states-google-summer-of-code-2017-e8f3895a9a81
-date: Thu Aug 17 2017 17:14:17 GMT-0400 (Eastern Daylight Time)
-
-
-# Open States & Google Summer of Code 2017
-
-originally published February 27, 2017
+---
+# url: https://blog.openstates.org/open-states-google-summer-of-code-2017-e8f3895a9a81
+date: 2017-02-27
+title: Open States & Google Summer of Code 2017
+author: james
+---
 
 ![Google Summer of Code 2017](https://cdn-images-1.medium.com/max/2000/1*a760xdW9i8iLR2bOM9x6zg.png)*Google Summer of Code 2017*
 

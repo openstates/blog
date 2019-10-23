@@ -1,10 +1,9 @@
-url: https://blog.openstates.org/2017-new-year-update-cc285aa818fd
-date: Tue Nov 07 2017 22:26:33 GMT-0500 (Eastern Standard Time)
-
-
-# 2017 New Year Update
-
-This blog post was originally published on January 2, 2017.
+---
+# url: https://blog.openstates.org/2017-new-year-update-cc285aa818fd
+date: 2017-01-02
+author: miles
+title: 2017 New Year Update
+---
 
 Phew! We’ve been working hard over the holidays, and are pleased to report that Open States is now serving up-to-date data for [20 state legislatures](https://github.com/openstates/planning/issues/11).
 

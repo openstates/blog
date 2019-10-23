@@ -1,10 +1,8 @@
-url: https://blog.openstates.org/march-19-2017-sprint-retrospective-46726954fcdf
-date: Tue Nov 07 2017 22:39:41 GMT-0500 (Eastern Standard Time)
-
-
-# March 19, 2017 Sprint Retrospective
-
-This blog post was originally published on March 23, 2017.
+---
+date: 2017-03-23
+title: March 19, 2017 Sprint Retrospective
+author: miles
+---
 
 This past Sunday’s code sprint was a huge success!
 

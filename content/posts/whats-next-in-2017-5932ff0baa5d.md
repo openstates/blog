@@ -1,10 +1,9 @@
-url: https://blog.openstates.org/whats-next-in-2017-5932ff0baa5d
-date: Thu Aug 17 2017 17:12:28 GMT-0400 (Eastern Daylight Time)
-
-
-# What’s Next in 2017?
-
-originally published January 31, 2017
+---
+# url: https://blog.openstates.org/whats-next-in-2017-5932ff0baa5d
+date: 2017-01-31
+author: james
+title: What’s Next in 2017?
+---
 
 As of last week, we’re collecting current data again for all in-session state legislatures. (This includes 48 of the 50 states, as well as DC and Puerto Rico; Florida begins their main 2017 session in March, and Louisiana doesn’t start until April.)
 

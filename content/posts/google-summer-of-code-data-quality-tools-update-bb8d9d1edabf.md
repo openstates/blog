@@ -1,10 +1,8 @@
-url: https://blog.openstates.org/google-summer-of-code-data-quality-tools-update-bb8d9d1edabf
-date: Thu Aug 17 2017 14:32:38 GMT-0400 (Eastern Daylight Time)
-
-
-# Google Summer of Code — Data Quality Tools Update
-
-originally published July 31, 2017
+---
+date: 2017-07-31
+author: hitesh
+title: Google Summer of Code — Data Quality Tools Update
+---
 
 **Hitesh has been working with us as part of [Google Summer of Code](https://developers.google.com/open-source/gsoc/). Prior updates: [intro](https://blog.openstates.org/post/gsoc-2017-hitesh-intro/), [first update](https://blog.openstates.org/post/gsoc-2017-hitesh-one-month/).**
 

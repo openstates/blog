@@ -1,10 +1,8 @@
-url: https://blog.openstates.org/save-the-date-open-states-code-sprint-march-19-2017-f234dd09b6e1
-date: Tue Nov 07 2017 22:35:52 GMT-0500 (Eastern Standard Time)
-
-
-# Save the Date: Open States Code Sprint — March 19, 2017
-
-This blog post was originally published on February 16, 2017.
+---
+date: 2017-02-16
+title: "Save the Date: Open States Code Sprint — March 19, 2017"
+author: miles
+---
 
 We’re excited to announce that Open States will be holding a code sprint in DC on Sunday, March 19!
 

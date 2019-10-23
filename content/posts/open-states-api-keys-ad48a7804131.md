@@ -1,10 +1,8 @@
-url: https://blog.openstates.org/open-states-api-keys-ad48a7804131
-date: Thu Aug 17 2017 17:16:47 GMT-0400 (Eastern Daylight Time)
-
-
-# Open States API Keys
-
-originally published on April 21, 2017
+---
+date: 2017-04-21
+author: james
+title: Open States API Keys
+---
 
 **TL;DR- We’re requiring API keys for API access again, [register for a key](https://openstates.org/api/register) and start using it by May 12th of this year. This applies even if you have a Sunlight-issued key.**
 

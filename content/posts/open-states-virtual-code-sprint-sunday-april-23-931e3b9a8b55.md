@@ -1,10 +1,8 @@
-url: https://blog.openstates.org/open-states-virtual-code-sprint-sunday-april-23-931e3b9a8b55
-date: Sun Nov 05 2017 20:43:01 GMT-0500 (Eastern Standard Time)
-
-
-# Open States Virtual Code Sprint: Sunday, April 23!
-
-This blog post was originally published on April 4, 2017.
+---
+date: 2017-04-04
+title: "Open States Virtual Code Sprint: Sunday, April 23!"
+author: miles
+---
 
 We’re excited to announce our second code sprint of 2017. And this time, we’re running it virtually, so that community members outside of DC can join in!
 
