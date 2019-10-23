@@ -1,8 +1,8 @@
-url: https://blog.openstates.org/bringing-on-support-for-the-2018-legislative-sessions-6313f4de4e49
-date: Tue Jan 09 2018 16:07:54 GMT-0500 (Eastern Standard Time)
-
-
-# Bringing on Support for the 2018 Legislative Sessions
+---
+date: 2018-01-09
+author: james
+title: Bringing on Support for the 2018 Legislative Sessions
+---
 
 I’m excited to announce that Miles Watkins, a fellow member of the Open States core team, will be working on the project professionally during 2018’s most legislatively-active months. Between now and late March, Miles will dedicate most of his work week to supporting Open States, especially by improving scraped data quality and building out the infrastructure of the new openstates.org and the geospatial components of the API.
 

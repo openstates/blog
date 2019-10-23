@@ -1,8 +1,8 @@
-url: https://blog.openstates.org/wrapping-up-my-open-states-contract-788c5d67bbb0
-date: Wed Mar 21 2018 15:18:33 GMT-0400 (Eastern Daylight Time)
-
-
-# Wrapping up my Open States contract
+---
+date: 2017-03-21
+author: miles
+title: Wrapping up my Open States contract
+---
 
 This is my last week of my three-month stint working full-time on Open States.
 

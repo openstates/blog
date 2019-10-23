@@ -1,8 +1,8 @@
-url: https://blog.openstates.org/open-states-progress-report-february-2-d4e04fa68e0e
-date: Thu Feb 01 2018 16:21:49 GMT-0500 (Eastern Standard Time)
-
-
-# Open States progress report, February 2
+---
+date: 2018-02-02
+author: miles
+title: Open States progress report, February 2
+---
 
 Hi all! As promised, touching base with a quick update on my Open States progress from the past couple weeks.
 

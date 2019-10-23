@@ -1,8 +1,8 @@
-url: https://blog.openstates.org/open-states-progress-report-march-2-49f683e775fd
-date: Fri Mar 02 2018 14:10:04 GMT-0500 (Eastern Standard Time)
-
-
-# Open States progress report, March 2
+---
+date: 2018-03-02
+author: miles
+title: Open States progress report, March 2
+---
 
 Hi again! Checking in with another progress update, as I begin my third and final month staffed full-time on Open States.
 

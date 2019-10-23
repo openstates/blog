@@ -1,8 +1,8 @@
-url: https://blog.openstates.org/scraper-status-report-for-the-2018-sessions-5fa7b88e55e2
-date: Fri Jan 19 2018 14:15:08 GMT-0500 (Eastern Standard Time)
-
-
-# Scraper status report for the 2018 sessions
+---
+date: 2018-01-19
+title: Scraper status report for the 2018 sessions
+author: miles
+---
 
 January’s always a busy time for Open States, as new legislative sessions are sworn in across the country. I’ve been hard at work making sure that our scrapers receive prompt fixes, as well as making manual data corrections as old legislators retire.
 

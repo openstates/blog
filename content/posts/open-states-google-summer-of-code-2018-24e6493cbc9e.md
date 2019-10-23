@@ -1,10 +1,8 @@
-url: https://blog.openstates.org/open-states-google-summer-of-code-2018-24e6493cbc9e
-date: Mon Feb 12 2018 12:37:06 GMT-0500 (Eastern Standard Time)
-
-
-# Open States & Google Summer of Code 2018
-
-
+---
+author: james
+date: 2018-02-12
+title: Open States & Google Summer of Code 2018
+---
 
 We’re excited to announce that Open States has been accepted as a participating organization in [Google Summer of Code 2018](https://developers.google.com/open-source/gsoc/)!
 

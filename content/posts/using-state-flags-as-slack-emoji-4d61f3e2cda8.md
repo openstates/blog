@@ -1,8 +1,8 @@
-url: https://blog.openstates.org/using-state-flags-as-slack-emoji-4d61f3e2cda8
-date: Mon Jan 22 2018 12:11:57 GMT-0500 (Eastern Standard Time)
-
-
-# Using state flags as Slack emoji
+---
+date: 2018-01-22
+title: Using state flags as Slack emoji
+author: miles
+---
 
 Want to rep your home state in Slack? Or travel around a lot, and want to use your Slack status to represent your location? Want to react to a friend’s message, but can’t find a way to say “that’s sooo Kansas”? (Or, run an open-source project and need a cute way to refer to individual states across the country? ;) )
 

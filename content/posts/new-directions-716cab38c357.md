@@ -1,8 +1,8 @@
-url: https://blog.openstates.org/new-directions-716cab38c357
-date: Mon Oct 01 2018 17:31:59 GMT-0400 (Eastern Daylight Time)
-
-
-# New Directions
+---
+date: 2018-10-01
+author: james
+title: New Directions
+---
 
 There’s been some radio silence here lately that has led to a few people asking about bigger picture questions, and we wanted to address some of these & make a few announcements regarding the direction of the project going forward. If you’re less interested in the “why” and more interested in the “what’s next” feel free to skip down to the relevant sections.
 

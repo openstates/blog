@@ -1,8 +1,8 @@
-url: https://blog.openstates.org/google-summer-of-code-crowd-sourcing-scraper-fixing-6c8472fd4604
-date: Mon May 14 2018 11:20:19 GMT-0400 (Eastern Daylight Time)
-
-
-# Google Summer of Code — Crowdsourcing & Scraper Fixing
+---
+date: 2017-05-14
+author: bikram
+title: Google Summer of Code — Crowdsourcing & Scraper Fixing
+---
 
 Hello everyone!
 
