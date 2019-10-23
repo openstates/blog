@@ -1,10 +1,9 @@
-url: https://blog.openstates.org/scraper-timeline-update-57f2c73457ba
-date: Tue Nov 07 2017 22:30:36 GMT-0500 (Eastern Standard Time)
-
-
-# Scraper Timeline Update
-
-This blog post was originally published on December 12, 2016.
+---
+# url: https://blog.openstates.org/scraper-timeline-update-57f2c73457ba
+date: 2016-12-12
+author: miles
+title: Scraper Timeline Update
+---
 
 We’re excited to announce that over the coming days, we’ll be able to start reactivating some state scrapers to collect up-to-date legislative data.
 

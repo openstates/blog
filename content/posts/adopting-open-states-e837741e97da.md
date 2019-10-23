@@ -1,10 +1,9 @@
-url: https://blog.openstates.org/adopting-open-states-e837741e97da
-date: Thu Aug 17 2017 12:25:57 GMT-0400 (Eastern Daylight Time)
-
-
-# Adopting Open States
-
-originally posted November 1, 2016
+---
+# url: https://blog.openstates.org/adopting-open-states-e837741e97da
+date: 2016-11-01
+author: james
+title: Adopting Open States
+---
 
 [As the Sunlight Foundation announced today](https://sunlightfoundation.com/blog/2016/11/01/sunlight-labs-update-nonprofits-step-up-to-preserve-tools-for-transparency), Open States is going to be passed along to us, a group of Sunlight alumni, with the goal of turning it into an independent, self-sustaining project.
 

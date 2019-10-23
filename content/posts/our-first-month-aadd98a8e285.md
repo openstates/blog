@@ -1,10 +1,8 @@
-url: https://blog.openstates.org/our-first-month-aadd98a8e285
-date: Thu Aug 17 2017 17:10:36 GMT-0400 (Eastern Daylight Time)
-
-
-# Our First Month
-
-originally published December 8, 2016
+--- 
+date: 2016-12-08
+author: james
+title: Our First Month
+---
 
 It’s been just over a month since we took over ownership of Open States and we wanted to give you an update on how things are going.
 

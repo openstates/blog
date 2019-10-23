@@ -1,8 +1,9 @@
-url: https://blog.openstates.org/why-open-states-10caed7874c6
-date: Thu Aug 17 2017 17:09:30 GMT-0400 (Eastern Daylight Time)
-
-
-# Why Open States?
+---
+# url: https://blog.openstates.org/why-open-states-10caed7874c6
+date: 2016-11-03
+author: miles
+title: Why Open States?
+---
 
 originally published November 3, 2016
 
