@@ -1,10 +1,8 @@
-url: https://blog.openstates.org/google-summer-of-code-2017-final-update-cf5c14d80c51
-date: Wed Aug 30 2017 09:53:07 GMT-0400 (Eastern Daylight Time)
-
-
-# Google Summer of Code 2017 Final Update
-
-
+---
+date: 2017-08-30
+author: hitesh
+title: Google Summer of Code 2017 Final Update
+---
 
 Hello everyone!
 

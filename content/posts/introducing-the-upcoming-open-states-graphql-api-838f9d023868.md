@@ -1,8 +1,8 @@
-url: https://blog.openstates.org/introducing-the-upcoming-open-states-graphql-api-838f9d023868
-date: Thu Nov 30 2017 13:31:49 GMT-0500 (Eastern Standard Time)
-
-
-# Introducing the Upcoming Open States GraphQL API
+---
+date: 2017-11-30
+title: Introducing the Upcoming Open States GraphQL API
+author: james
+---
 
 The Open States API is arguably the most important part of the project after the scrapers. The API was launched in 2010 and now sees millions of requests a week.
 

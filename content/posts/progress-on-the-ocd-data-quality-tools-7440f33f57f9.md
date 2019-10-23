@@ -1,10 +1,8 @@
-url: https://blog.openstates.org/progress-on-the-ocd-data-quality-tools-7440f33f57f9
-date: Thu Aug 17 2017 14:34:51 GMT-0400 (Eastern Daylight Time)
-
-
-# Progress on the OCD Data Quality Tools
-
-originally published July 4, 2017
+---
+date: 2017-07-04
+title: Progress on the OCD Data Quality Tools
+name: hitesh
+---
 
 Hello everyone!
 

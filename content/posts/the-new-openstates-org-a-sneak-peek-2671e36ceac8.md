@@ -1,8 +1,8 @@
-url: https://blog.openstates.org/the-new-openstates-org-a-sneak-peek-2671e36ceac8
-date: Sat Dec 02 2017 11:34:07 GMT-0500 (Eastern Standard Time)
-
-
-# The new openstates.org: a sneak peek
+---
+author: miles
+date: 2017-12-02
+title: "The new openstates.org: a sneak peek"
+---
 
 The current Open States website has served us well. It’s a crucial gateway for citizens to track, search, and learn about their representatives and bills, and receives hundreds of thousands of hits per month when legislatures are in session.
 

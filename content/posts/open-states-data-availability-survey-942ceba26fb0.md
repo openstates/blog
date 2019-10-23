@@ -1,8 +1,8 @@
-url: https://blog.openstates.org/open-states-data-availability-survey-942ceba26fb0
-date: Sun Aug 20 2017 22:33:09 GMT-0400 (Eastern Daylight Time)
-
-
-# Open States Data Availability Survey
+---
+date: 2017-08-20
+author: james
+title: Open States Data Availability Survey
+---
 
 Help evaluate your state’s legislative data.
 

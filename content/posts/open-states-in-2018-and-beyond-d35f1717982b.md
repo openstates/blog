@@ -1,8 +1,8 @@
-url: https://blog.openstates.org/open-states-in-2018-and-beyond-d35f1717982b
-date: Fri Dec 01 2017 11:30:22 GMT-0500 (Eastern Standard Time)
-
-
-# Open States in 2018 and Beyond
+---
+date: 2017-12-01
+author: james
+title: Open States in 2018 and Beyond
+---
 
 Open States will soon enter its tenth year as a project and second year as an independent entity. We wanted to take some time to reflect, and announce some changes that we’ll be making in 2018.
 
