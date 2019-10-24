@@ -1,8 +1,8 @@
-url: https://blog.openstates.org/introducing-the-new-openstates-org-64bcbd765f58
-date: Wed Jan 09 2019 17:03:19 GMT-0500 (Eastern Standard Time)
-
-
-# Introducing the new openstates.org
+---
+date: 2019-01-09
+author: james
+title: Introducing the new openstates.org
+---
 
 Just over a year ago, we gave a preview of some work that team member Olivia Cheng was working on. As of today, we’re proud to announce that work has become the new openstates.org.
 

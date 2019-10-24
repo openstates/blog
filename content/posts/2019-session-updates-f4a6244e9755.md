@@ -1,10 +1,8 @@
-url: https://blog.openstates.org/2019-session-updates-f4a6244e9755
-date: Thu Jan 03 2019 13:48:51 GMT-0500 (Eastern Standard Time)
-
-
-# 2019 Session Updates
-
-credit mohamed_hassan
+---
+date: 2019-01-03
+title: 2019 Session Updates
+author: james
+---
 
 Happy New Year!
 

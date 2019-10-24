@@ -1,8 +1,8 @@
-url: https://blog.openstates.org/happy-10th-birthday-open-states-82cc59b9a185
-date: Mon Feb 25 2019 20:28:31 GMT-0500 (Eastern Standard Time)
-
-
-# Happy 10th Birthday, Open States!
+---
+date: 2019-02-25
+author: james
+title: Happy 10th Birthday, Open States!
+---
 
 It was 10 years ago today that the first post about what would become Open States was made on the Sunlight Labs blog.
 

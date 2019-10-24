@@ -1,8 +1,8 @@
-url: https://blog.openstates.org/adding-full-text-search-to-open-states-14b665c1fe30
-date: Sat Aug 03 2019 17:29:02 GMT-0400 (Eastern Daylight Time)
-
-
-# Adding Full Text Search to Open States
+---
+date: 2019-08-03
+author: james
+title: Adding Full Text Search to Open States
+---
 
 For years, the most requested feature on Open States has been the ability to search all legislation by keyword, and to receive updates when new bills matching keywords are updated.
 
