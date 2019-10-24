@@ -2,3 +2,18 @@ baseURL = "https://blog.openstates.org/"
 languageCode = "en-us"
 title = "Open States"
 theme = "beautifulhugo"
+googleAnalytics = "UA-143711479-2"
+
+[Params]
+ subtitle = "Latest updates from the Open States team"
+ logo = "img/openstates_icon_white.png"
+ favicon = "img/favicon.ico"
+ rss = true
+ readingTime = true
+ socialShare = true
+ showRelatedPosts = true
+
+[Author]
+ # email = "contact@openstates.org"
+ github = "openstates"
+ twitter = "openstates"
