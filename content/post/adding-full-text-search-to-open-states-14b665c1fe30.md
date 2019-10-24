@@ -1,5 +1,5 @@
 ---
-date: 2019-08-03
+date: 2019-09-09
 author: james
 title: Adding Full Text Search to Open States
 ---
