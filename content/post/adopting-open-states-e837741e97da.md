@@ -9,7 +9,7 @@ title: Adopting Open States
 
 We’re extremely grateful to Kat Duffy and everyone else at Sunlight for helping us to get to this point, and wanted to take some time today to explain who we are, what our plan is, and what we need from you in order to have Open States succeed.
 
-![](https://cdn-images-1.medium.com/max/2000/1*8xjFwKBCmfZRAdgcwLImJQ.png)
+![](/img/old/8xjFwKBCmfZRAdgcwLImJQ.png)
 
 ## Who We Are
 

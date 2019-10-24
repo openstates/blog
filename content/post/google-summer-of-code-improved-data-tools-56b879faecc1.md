@@ -22,7 +22,7 @@ After nights of hard work, I was excited to find out on May 4 that my applicatio
 
 Currently, Open States administrators have a web dashboard to monitor system status and data quality. For example, how many likely-duplicate bills or legislators are detected in the system? Admins can also use tools within to make manual tweaks and merges to database records. Here’s an example of the main dashboard view:
 
-![](https://cdn-images-1.medium.com/max/2800/0*GkgkOrDleHzXU4Y7.png)
+![](/img/old/GkgkOrDleHzXU4Y7.png)
 
 This tool needs to be rethought and redesigned, both for the updated Open Civic Data structure, and because OCD and pupa rely on Python 3 and Postgres, versus Open State’s previous reliance on Python 2 and MongoDB.
 

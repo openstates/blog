@@ -7,7 +7,7 @@ title: Why Open States?
 
 originally published November 3, 2016
 
-![](https://cdn-images-1.medium.com/max/2000/0*S0A5VNUJVsR7Yg75.png)
+![](/img/old/S0A5VNUJVsR7Yg75.png)
 
 [We announced](https://blog.openstates.org/post/adopting-open-states/) earlier this week that Open States is now being maintained by the original creators of the project, a community of Sunlight Foundation alumni and other volunteers.
 
@@ -21,7 +21,7 @@ So why, despite the challenges, we are taking on this project? Why do we think t
 
 Over seven years ago, Sunlight Labs [announced](https://sunlightfoundation.com/blog/2009/02/26/fifty-state-project/) “The Fifty State Project,” an effort to provide the public with information on America’s state legislatures.
 
-![](https://cdn-images-1.medium.com/max/2000/0*JqYoE_F3L4MYM2-o.png)
+![](/img/old/JqYoE_F3L4MYM2-o.png)
 
 The goal was ambitious, to replicate the federal data services provided by sites like [GovTrack](https://govtrack.us/), but across every state legislature in the country. Over time, the Fifty State Project became Open States, and we ended up aggregating and structuring data every day on [over 7,000 legislators](http://www.ncsl.org/research/about-state-legislatures/number-of-legislators-and-length-of-terms.aspx), and the tens of thousands of bills that they brought to the floor each year. It was only with the full support of the Sunlight Foundation, its funders, and code contributions from dozens of friends in the civic tech community that we were able to accomplish this.
 
@@ -43,7 +43,7 @@ Open States has always been a data-first project. All Open States data is availa
 
 ## The Future of Open States
 
-![](https://cdn-images-1.medium.com/max/2000/0*S0A5VNUJVsR7Yg75.png)
+![](/img/old/S0A5VNUJVsR7Yg75.png)
 
 We have immediate plans to repair and rebuild Open States over the coming months, as outlined in our [previous blog post](https://blog.openstates.org/post/adopting-open-states/). But we’re not only taking on Open States because we want to keep serving the same, reliable data that users have appreciated for years, but also because there is a lot more we’d like to do with Open States in the future.
 

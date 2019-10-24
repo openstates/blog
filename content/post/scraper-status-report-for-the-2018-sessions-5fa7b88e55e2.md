@@ -6,7 +6,7 @@ author: Miles Watkins
 
 January’s always a busy time for Open States, as new legislative sessions are sworn in across the country. I’ve been hard at work making sure that our scrapers receive prompt fixes, as well as making manual data corrections as old legislators retire.
 
-![Our scraper-status dashboard, [http://bobsled.openstates.org/](http://bobsled.openstates.org/)](https://cdn-images-1.medium.com/max/2660/1*jtWfGDYvPny9xL2jZGBzaA.png)*Our scraper-status dashboard, [http://bobsled.openstates.org/](http://bobsled.openstates.org/)*
+![Our scraper-status dashboard, [http://bobsled.openstates.org/](http://bobsled.openstates.org/)](/img/old/jtWfGDYvPny9xL2jZGBzaA.png)*Our scraper-status dashboard, [http://bobsled.openstates.org/](http://bobsled.openstates.org/)*
 
 Right now, we’re in a great place. Thanks to 70 code commits in the past two weeks, 42 of our 52 state scrapers are running smoothly. [Three more](https://github.com/openstates/openstates/pulls) (Arkansas, Connecticut, and Louisiana) are in a holding pattern, since they’ve not yet begun their main 2018 sessions. And we’re actively writing fixes for the remaining seven. We anticipate completing our beginning-of-session maintenance next week; my next task will be enhancing our geospatial lookup.
 

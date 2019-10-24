@@ -12,21 +12,21 @@ So, when we needed to update openstates.org to use the Open Civic Data infrastru
 
 We’ve been working with [Olivia Cheng](https://heyitsolivia.com/), designer and front-end developer, to improve the visual feel of the website. Through exposure to the project while at Sunlight, and via conversations with James and myself, Olivia has applied a modern design eye to the data we publish.
 
-![One potential refreshed Open States logo](https://cdn-images-1.medium.com/max/2000/1*lwyYMTtGVgDQ7qMe6sYkrA.png)*One potential refreshed Open States logo*
+![One potential refreshed Open States logo](/img/old/lwyYMTtGVgDQ7qMe6sYkrA.png)*One potential refreshed Open States logo*
 
 While I’m not the right person to discuss the theory and best-practices behind the upcoming openstates.org, Olivia plans to explain these in a future blog post. In the meantime, I’d like to share some screenshots of our existing site, compared with Olivia’s refresh!
 
-![Current legislator card](https://cdn-images-1.medium.com/max/2000/1*3OMVjOLCcM9hsXs3DmlfcQ.png)*Current legislator card*
+![Current legislator card](/img/old/3OMVjOLCcM9hsXs3DmlfcQ.png)*Current legislator card*
 
-![Updated legislator card](https://cdn-images-1.medium.com/max/2000/1*eQcg5KFfxGtkO-FcN-CEwg.png)*Updated legislator card*
+![Updated legislator card](/img/old/eQcg5KFfxGtkO-FcN-CEwg.png)*Updated legislator card*
 
-![Current “recent legislation” list](https://cdn-images-1.medium.com/max/2000/1*vE8949EW6V0sLQmczRjtpg.png)*Current “recent legislation” list*
+![Current “recent legislation” list](/img/old/vE8949EW6V0sLQmczRjtpg.png)*Current “recent legislation” list*
 
-![Updated “recent legislation” list](https://cdn-images-1.medium.com/max/2260/1*uU2FU5TFcX5j64gpFhB6zg.png)*Updated “recent legislation” list*
+![Updated “recent legislation” list](/img/old/uU2FU5TFcX5j64gpFhB6zg.png)*Updated “recent legislation” list*
 
-![Current legislator vote list](https://cdn-images-1.medium.com/max/2004/1*czTHkLwGTKRCVmjTvjTqCg.png)*Current legislator vote list*
+![Current legislator vote list](/img/old/czTHkLwGTKRCVmjTvjTqCg.png)*Current legislator vote list*
 
-![Updated legislator vote list](https://cdn-images-1.medium.com/max/2540/1*X5IWtRa6uCDSC0HUdLU26g.png)*Updated legislator vote list*
+![Updated legislator vote list](/img/old/X5IWtRa6uCDSC0HUdLU26g.png)*Updated legislator vote list*
 
 With the visual elements mainly finished, we’re about ready to build out the website itself in Django and React. We hope to launch a version of the site in early 2018.
 

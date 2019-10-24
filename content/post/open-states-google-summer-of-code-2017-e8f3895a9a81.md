@@ -5,7 +5,7 @@ title: Open States & Google Summer of Code 2017
 author: James Turk
 ---
 
-![Google Summer of Code 2017](https://cdn-images-1.medium.com/max/2000/1*a760xdW9i8iLR2bOM9x6zg.png)*Google Summer of Code 2017*
+![Google Summer of Code 2017](/img/old/a760xdW9i8iLR2bOM9x6zg.png)*Google Summer of Code 2017*
 
 We’re excited to announce that Open States has been accepted as a participating organization in [Google Summer of Code 2017](https://developers.google.com/open-source/gsoc/)!
 

@@ -12,7 +12,7 @@ A lot of work was done this month and hence the third blog post. So continuing f
 
 * Introduced a new data quality check to capture if there are too many people associated with a post or too few people associated with a post. Here’s a peek in the content of Data Quality Issues Section:
 
-![](https://cdn-images-1.medium.com/max/2356/0*Qtq-7GDf1ZD_pz5e.png)
+![](/img/old/Qtq-7GDf1ZD_pz5e.png)
 
 * Built Name Resolution Tool to resolve the name discrepancies in bill sponsors/voters/organization members.
 

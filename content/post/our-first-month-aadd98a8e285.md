@@ -18,7 +18,7 @@ We spent most of this month focused on infrastructure changes and bugfixes. In a
 
 **Before & After**
 
-![average response times dropped from 550ms to 80ms](https://cdn-images-1.medium.com/max/3192/0*O78iqK_tuy03n3gx.png)*average response times dropped from 550ms to 80ms*
+![average response times dropped from 550ms to 80ms](/img/old/O78iqK_tuy03n3gx.png)*average response times dropped from 550ms to 80ms*
 
 We’ve also begun the work of auditing the status of each state’s scrapers, and will be publishing updates soon on where they stand, and when we expect the first states to come back online. Our next update, before the end of the year, should accompany the first batch of scrapers being brought back online, and a rough schedule of when we hope to add the remaining data from 2017 sessions.
 

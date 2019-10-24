@@ -6,15 +6,15 @@ title: Introducing the new openstates.org
 
 Just over a year ago, we gave a preview of some work that team member Olivia Cheng was working on. As of today, we’re proud to announce that work has become the new openstates.org.
 
-![The new state overview page](https://cdn-images-1.medium.com/max/4252/1*7VOW16TTfVs0T8OqQz1Xyw.png)*The new state overview page*
+![The new state overview page](/img/old/7VOW16TTfVs0T8OqQz1Xyw.png)*The new state overview page*
 
 The new site has been something that Miles, Olivia, and myself have worked on in our spare time for the past year. We’re proud that it is now in a state that is ready to be shown off to the world in time for the start of the 2019 sessions.
 
 You’ll see that the new site is a lot less visually cluttered, with clearer fonts, bolder colors, and a generally improved aesthetic that Olivia worked on. Designing for the huge degree of variance we encounter state-to-state is a real challenge and Olivia helped us tackle some thorny problems.
 
-![The bill search feature is aimed at helping users drill down to what they’re interested in.](https://cdn-images-1.medium.com/max/4844/1*loL0CWt02gbtFjiZ1MUFTQ.png)*The bill search feature is aimed at helping users drill down to what they’re interested in.*
+![The bill search feature is aimed at helping users drill down to what they’re interested in.](/img/old/loL0CWt02gbtFjiZ1MUFTQ.png)*The bill search feature is aimed at helping users drill down to what they’re interested in.*
 
-![Responsive mobile view of a legislator’s page.](https://cdn-images-1.medium.com/max/2000/1*zhwFdOkq9i7_JRqPXXPVBQ.png)*Responsive mobile view of a legislator’s page.*
+![Responsive mobile view of a legislator’s page.](/img/old/zhwFdOkq9i7_JRqPXXPVBQ.png)*Responsive mobile view of a legislator’s page.*
 
 The original Open States website launched back in [2012](https://sunlightfoundation.com/2012/07/27/a-new-face-for-openstates/), and without a responsive design. The last seven years have really changed how people browse sites, and we’re proud to say that the new site is responsive. Even as we iron out a few rough edges, users will find what is currently there a marked improvement over the old mobile experience (or lack thereof).
 

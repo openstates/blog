@@ -14,7 +14,7 @@ This API is currently in an early alpha state. We want to be sure to get this ri
 
 Definitely take a bit of time to at least [skim the documentation](http://docs.openstates.org/en/latest/api/v2/index.html) or just give it a try. We think you’ll be pleasantly surprised at the power of the new API, and we’re counting on the community to give their feedback during this crucial period so that we can ensure it is the best API it can be going forward.
 
-![Try out the new API in the browser today!](https://cdn-images-1.medium.com/max/2760/1*udyPP0k9sVqNRVfYMr8MkA.png)*Try out the new API in the browser today!*
+![Try out the new API in the browser today!](/img/old/udyPP0k9sVqNRVfYMr8MkA.png)*Try out the new API in the browser today!*
 
 Replacing an API with as much usage and history as the Open States API is not a simple task. We know that this change (from a more traditional RESTish API to a GraphQL API) might seem bigger/harder than you could expect. So here are a few questions we’d like to address up front:
 

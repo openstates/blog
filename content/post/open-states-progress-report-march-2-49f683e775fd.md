@@ -12,10 +12,10 @@ Speaking of GSoC, James and I will soon be receiving and reviewing first-draft p
 
 The remaining bulk of my February and March is dedicated to building [the all-new version of openstates.org](https://blog.openstates.org/the-new-openstates-org-a-sneak-peek-2671e36ceac8). Working closely with our designer, [Olivia Cheng](https://github.com/heyitsolivia), I’ve begun populating the main pages of the site. And once that’s completed, I’ll enhance the interactivity, such as sortable tables and the find-your-legislator tool.
 
-![Our yet-to-be-styled legislator-list webpage](https://cdn-images-1.medium.com/max/3244/1*z-C59DnHhr53sQr6oP-ekg.png)*Our yet-to-be-styled legislator-list webpage*
+![Our yet-to-be-styled legislator-list webpage](/img/old/z-C59DnHhr53sQr6oP-ekg.png)*Our yet-to-be-styled legislator-list webpage*
 
 Olivia’s implemented our build system, and integrated a front-end framework that will be at the core of our responsive, mobile-friendly design; here’s a very simple example of this styling at work:
 
-![By building a website that responds to screen size, we can replace the aging Open States smartphone apps](https://cdn-images-1.medium.com/max/2000/1*3QNT6MBhyTfN7gX03iMzlw.gif)*By building a website that responds to screen size, we can replace the aging Open States smartphone apps*
+![By building a website that responds to screen size, we can replace the aging Open States smartphone apps](/img/old/3QNT6MBhyTfN7gX03iMzlw.gif)*By building a website that responds to screen size, we can replace the aging Open States smartphone apps*
 
 I’ll be back to touch base later this month. In the meantime, if you’ve appreciated the data quality and service improvements that full-time staffing has been able to provide, [please consider making a donation](https://openstates.org/funding/)! My days have only been available to the project because of funding from users like yourself.

@@ -8,7 +8,7 @@ Want to rep your home state in Slack? Or travel around a lot, and want to use yo
 
 I got you. Hop over to [my GitHub repository](https://github.com/mileswwatkins/slack_state_flags) and you can load all 50 state flags (plus 6 territories’) into your Slack, as custom emoji!
 
-![](https://cdn-images-1.medium.com/max/2000/1*Lr3sByZd7z5l-Ch63XHBqg.png)
+![](/img/old/Lr3sByZd7z5l-Ch63XHBqg.png)
 
 I spent some personal time recently, scraping the freely-licensed images from Wikipedia, and integrating them with [Ash Wilson’s Slack emoji uploader](https://github.com/smashwilson/slack-emojinator).
 
@@ -16,4 +16,4 @@ I spent some personal time recently, scraping the freely-licensed images from Wi
 
 So, while the tech giants work on proper implementation, go get state flags into your Slack today!
 
-![](https://cdn-images-1.medium.com/max/2000/1*dIBNq3xI_-AScEThl3ZVfA.png)
+![](/img/old/dIBNq3xI_-AScEThl3ZVfA.png)

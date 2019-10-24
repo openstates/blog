@@ -20,7 +20,7 @@ As we explained in the [initial announcement](https://blog.openstates.org/introd
 
 **Discussion**: [https://discourse.openstates.org/c/api-v2](https://discourse.openstates.org/c/api-v2)
 
-![The API Playground at http://beta.openstates.org/graphql](https://cdn-images-1.medium.com/max/3496/1*2J7kcYcA6Nc8MBcp2UKcwQ.png)*The API Playground at http://beta.openstates.org/graphql*
+![The API Playground at http://beta.openstates.org/graphql](/img/old/2J7kcYcA6Nc8MBcp2UKcwQ.png)*The API Playground at http://beta.openstates.org/graphql*
 
 If you looked earlier in the year but haven’t checked it out in a while, there’s been [a lot of work on the API](http://docs.openstates.org/en/latest/api/v2/changelog.html), most notably:
 

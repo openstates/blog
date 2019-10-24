@@ -10,7 +10,7 @@ We’re excited to announce that today marks the first step in that direction wi
 
 If you’re using the GraphQL API simply [add the searchQuery term to your bills() query](https://docs.openstates.org/en/latest/api/v2/root-nodes.html#bills).
 
-![searchQuery in action](https://cdn-images-1.medium.com/max/5916/1*1i26M-uUICKKHVm1yvLtDA.png)*searchQuery in action*
+![searchQuery in action](/img/old/1i26M-uUICKKHVm1yvLtDA.png)*searchQuery in action*
 
 If you’re using API v1, [the existing q= parameter on the bills endpoint](https://docs.openstates.org/en/latest/api/bills.html#filter-parameters) has been extended to take advantage of the additional search power.
 

@@ -14,7 +14,7 @@ It seems like just yesterday that I was selected for Google Summer of Code, but 
 
 * The redesigned and improved data quality dashboard is complete. This gives Open States administrators a high-level view of where problems exist. Here’s a peek at the initial design and content:
 
-![](https://cdn-images-1.medium.com/max/2800/0*T5gQW-OmLAXEwBhQ.png)
+![](/img/old/T5gQW-OmLAXEwBhQ.png)
 
 * I’ve also created some of the state- and session-specific data quality pages, beyond this main dashboard, to allow manual fixing of individual issues.
 
