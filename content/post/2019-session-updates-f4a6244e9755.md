@@ -1,7 +1,7 @@
 ---
 date: 2019-01-03
 title: 2019 Session Updates
-author: james
+author: James Turk
 ---
 
 Happy New Year!

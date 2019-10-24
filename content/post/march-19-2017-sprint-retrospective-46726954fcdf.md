@@ -1,7 +1,7 @@
 ---
 date: 2017-03-23
 title: March 19, 2017 Sprint Retrospective
-author: miles
+author: Miles Watkins
 ---
 
 This past Sunday’s code sprint was a huge success!

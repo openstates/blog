@@ -1,6 +1,6 @@
 ---
 date: 2017-07-31
-author: hitesh
+author: Hitesh Garg
 title: Google Summer of Code — Data Quality Tools Update
 ---
 

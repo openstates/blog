@@ -1,7 +1,7 @@
 ---
 # url: https://blog.openstates.org/scraper-timeline-update-57f2c73457ba
 date: 2016-12-12
-author: miles
+author: Miles Watkins
 title: Scraper Timeline Update
 ---
 

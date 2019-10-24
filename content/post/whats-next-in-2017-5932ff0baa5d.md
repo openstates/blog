@@ -1,7 +1,7 @@
 ---
 # url: https://blog.openstates.org/whats-next-in-2017-5932ff0baa5d
 date: 2017-01-31
-author: james
+author: James Turk Turk
 title: What’s Next in 2017?
 ---
 

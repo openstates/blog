@@ -1,6 +1,6 @@
 ---
 date: 2017-12-01
-author: james
+author: James Turk
 title: Open States in 2018 and Beyond
 ---
 

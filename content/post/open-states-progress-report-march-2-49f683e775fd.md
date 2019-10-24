@@ -1,6 +1,6 @@
 ---
 date: 2018-03-02
-author: miles
+author: Miles Watkins
 title: Open States progress report, March 2
 ---
 

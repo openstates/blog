@@ -1,7 +1,7 @@
 ---
 date: 2017-02-16
 title: "Save the Date: Open States Code Sprint — March 19, 2017"
-author: miles
+author: Miles Watkins
 ---
 
 We’re excited to announce that Open States will be holding a code sprint in DC on Sunday, March 19!

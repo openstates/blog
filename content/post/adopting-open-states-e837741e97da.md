@@ -1,7 +1,7 @@
 ---
 # url: https://blog.openstates.org/adopting-open-states-e837741e97da
 date: 2016-11-01
-author: james
+author: James Turk
 title: Adopting Open States
 ---
 

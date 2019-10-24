@@ -1,7 +1,7 @@
 ---
 date: 2017-04-04
 title: "Open States Virtual Code Sprint: Sunday, April 23!"
-author: miles
+author: Miles Watkins
 ---
 
 We’re excited to announce our second code sprint of 2017. And this time, we’re running it virtually, so that community members outside of DC can join in!

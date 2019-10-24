@@ -1,6 +1,6 @@
 ---
 date: 2017-04-21
-author: james
+author: James Turk
 title: Open States API Keys
 ---
 

@@ -1,6 +1,6 @@
 ---
 date: 2019-01-09
-author: james
+author: James Turk
 title: Introducing the new openstates.org
 ---
 

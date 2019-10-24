@@ -1,7 +1,7 @@
 ---
 # url: https://blog.openstates.org/why-open-states-10caed7874c6
 date: 2016-11-03
-author: miles
+author: Miles Watkins
 title: Why Open States?
 ---
 

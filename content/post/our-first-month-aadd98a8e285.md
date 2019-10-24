@@ -1,6 +1,6 @@
 --- 
 date: 2016-12-08
-author: james
+author: James Turk
 title: Our First Month
 ---
 

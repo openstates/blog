@@ -2,7 +2,7 @@
 # url: https://blog.openstates.org/open-states-google-summer-of-code-2017-e8f3895a9a81
 date: 2017-02-27
 title: Open States & Google Summer of Code 2017
-author: james
+author: James Turk
 ---
 
 ![Google Summer of Code 2017](https://cdn-images-1.medium.com/max/2000/1*a760xdW9i8iLR2bOM9x6zg.png)*Google Summer of Code 2017*

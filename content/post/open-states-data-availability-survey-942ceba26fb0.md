@@ -1,6 +1,6 @@
 ---
 date: 2017-08-20
-author: james
+author: James Turk
 title: Open States Data Availability Survey
 ---
 

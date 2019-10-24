@@ -1,6 +1,6 @@
 ---
 date: 2018-01-09
-author: james
+author: James Turk
 title: Bringing on Support for the 2018 Legislative Sessions
 ---
 

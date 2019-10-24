@@ -1,6 +1,6 @@
 ---
 date: 2017-05-28
-author: hitesh
+author: Hitesh Garg
 title: Google Summer of Code — Improved Data Tools
 ---
 

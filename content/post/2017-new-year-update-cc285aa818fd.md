@@ -1,7 +1,7 @@
 ---
 # url: https://blog.openstates.org/2017-new-year-update-cc285aa818fd
 date: 2017-01-02
-author: miles
+author: Miles Watkins
 title: 2017 New Year Update
 ---
 

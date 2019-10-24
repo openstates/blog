@@ -1,6 +1,6 @@
 ---
 date: 2017-05-14
-author: bikram
+author: Bikram Bharti
 title: Google Summer of Code — Crowdsourcing & Scraper Fixing
 ---
 

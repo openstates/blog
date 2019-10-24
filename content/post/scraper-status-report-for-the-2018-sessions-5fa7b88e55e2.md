@@ -1,7 +1,7 @@
 ---
 date: 2018-01-19
 title: Scraper status report for the 2018 sessions
-author: miles
+author: Miles Watkins
 ---
 
 January’s always a busy time for Open States, as new legislative sessions are sworn in across the country. I’ve been hard at work making sure that our scrapers receive prompt fixes, as well as making manual data corrections as old legislators retire.

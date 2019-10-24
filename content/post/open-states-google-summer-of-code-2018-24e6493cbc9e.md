@@ -1,5 +1,5 @@
 ---
-author: james
+author: James Turk
 date: 2018-02-12
 title: Open States & Google Summer of Code 2018
 ---

@@ -1,6 +1,6 @@
 ---
 date: 2017-03-21
-author: miles
+author: Miles Watkins
 title: Wrapping up my Open States contract
 ---
 

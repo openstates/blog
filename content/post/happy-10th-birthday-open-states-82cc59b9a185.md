@@ -1,6 +1,6 @@
 ---
 date: 2019-02-25
-author: james
+author: James Turk
 title: Happy 10th Birthday, Open States!
 ---
 

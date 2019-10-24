@@ -1,5 +1,5 @@
 ---
-author: miles
+author: Miles Watkins
 date: 2017-12-02
 title: "The new openstates.org: a sneak peek"
 ---

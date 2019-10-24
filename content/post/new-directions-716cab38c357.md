@@ -1,6 +1,6 @@
 ---
 date: 2018-10-01
-author: james
+author: James Turk
 title: New Directions
 ---
 

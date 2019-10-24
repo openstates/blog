@@ -1,7 +1,7 @@
 ---
 date: 2017-07-04
 title: Progress on the OCD Data Quality Tools
-name: hitesh
+author: Hitesh Garg
 ---
 
 Hello everyone!

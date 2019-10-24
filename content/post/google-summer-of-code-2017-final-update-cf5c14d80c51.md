@@ -1,6 +1,6 @@
 ---
 date: 2017-08-30
-author: hitesh
+author: Hitesh Garg
 title: Google Summer of Code 2017 Final Update
 ---
 
