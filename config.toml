@@ -20,3 +20,24 @@ googleAnalytics = "UA-143711479-2"
  # email = "contact@openstates.org"
  github = "openstates"
  twitter = "openstates"
+
+
+[[menu.main]]
+    name = "About"
+    url = "https://openstates.org/about/"
+    weight = 2
+
+[[menu.main]]
+    name = "OpenStates.org"
+    url = "https://openstates.org/"
+    weight = 1
+
+[[menu.main]]
+    name = "Mailing List"
+    url = "https://mailchi.mp/16377011c32f/openstates"
+    weight = 4
+
+[[menu.main]]
+    name = "Donate"
+    url = "https://openstates.org/donate/"
+    weight = 5
