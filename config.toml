@@ -1,5 +1,4 @@
-# baseURL = "https://blog.openstates.org/"
-baseURL = "https://agitated-raman-c9cab7.netlify.com/"
+baseURL = "https://blog.openstates.org/"
 languageCode = "en-us"
 title = "Open States"
 theme = "beautifulhugo"
