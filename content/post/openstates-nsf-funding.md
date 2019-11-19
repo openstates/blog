@@ -18,7 +18,7 @@ We’ll be publishing more updates soon, but on the short term roadmap:
 
 After that’s done, we’ll be picking up work on record linkage, looking further back in history, filling gaps where scrapers are not gathering hard-to-reach data, and quite a bit more.  We’re hopeful that this work will lead to a renewal of the NSF grant, as well as other funding opportunities in 2020.
 
-Of course these are just the surface level changes that having full time staff will entail.  We’re eager to spend time improving our infrastructure, and finding time to work more closely with partners, and much more.  If you're interested in learning more or getting in touch about related projects please [get in touch](contact@openstates.org)!
+Of course these are just the surface level changes that having full time staff will entail.  We’re eager to spend time improving our infrastructure, and finding time to work more closely with partners, and much more.  If you're interested in learning more or getting in touch about related projects please [get in touch](mailto:contact@openstates.org)!
 
 ---
 
