@@ -11,6 +11,8 @@ We are also only funded through the first half of the year, and seeking funding 
 
 **If you're interested in collaborating in any way, [please get in touch](mailto:contact@openstates.org).**
 
+**If you'd like to make an end-of-year contribution, [donate today](https://openstates.org/donate/)!**
+
 ## Types of Users
 
 We're taking a look at how different types of users interact with Open States and looking at ways to optimize the distinct experiences people are seeking when they come to us.  If you're interested in this process, it is detailed below, if you're just interseted in what we'll be working on, [skip ahead to the actual roadmap](#roadmap).
@@ -84,6 +86,8 @@ And finally, we're going to spend a lot of time working to grow our community.  
 - API User Dashboard (Q2-Q3)
 
 **[Get in touch](mailto:contact@openstates.org) if you're interested in helping or giving feedback as we build a better Open States.**
+
+**If you'd like to make an end-of-year contribution, [donate today](https://openstates.org/donate/)!**
 
 If you haven't already, please sign up for our [mailing list](https://mailchi.mp/16377011c32f/openstates).
 
