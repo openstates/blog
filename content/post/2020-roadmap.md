@@ -19,7 +19,7 @@ Over the years we have come to think of our audience as having five types of use
 
 #### Casual Web User
 
-These are users arriving at the site via a web search.
+These are users arriving at the site via a web search, typically looking for information on a specific bill.
 
 **Goals:** We aim to serve them as quickly as possible, getting them the information they came for quickly & accurately.
 
@@ -53,21 +53,21 @@ A researcher looking for historical information.
 
 ## Roadmap
 
-#### Data Quality
-
-- Improve data quality and timeliness.  (Ongoing)
-- Provide publicly accessible data quality dashboard.  (Q2)
-
 #### Power User Site Features
 
 - Add user logins & profiles.   (Q1)
 - Introduce bill & issue tracking.  (Q1)
 
+#### Data Quality
+
+- Improve data quality and timeliness.  (Ongoing)
+- Provide publicly accessible data quality dashboard.  (Q2)
+
 #### API
 
 - Improve speed of most popular graph queries.  (TBD)
 - Provide simplified endpoints for common queries.  (TBD)
-- Introduce a pub/sub type mechanism for staying in sync with bill & vote updates.  (TBD)
+- Introduce a [pub/sub](https://en.wikipedia.org/wiki/Publish%E2%80%93subscribe_pattern) type mechanism for staying in sync with bill & vote updates.  (TBD)
 
 #### Bulk Data
 
@@ -75,7 +75,13 @@ A researcher looking for historical information.
 - Add custom data-export creation page. (TBD)
 - Provide bulk geographic data ahead of 2021 redistricting. (TBD)
 
-And finally, we're going to spend a lot of time working to grow our community.  Community is an incredibly important part of the reason Open States is around, and paid staff will let us do work has tended to fall by the wayside including documentation updates & better support for people that wish to contribute.
+#### Community
+
+And finally, we're going to spend a lot of time working to grow our community.  Community is an incredibly important part of the reason Open States is around, and paid staff will let us do work has tended to fall by the wayside:
+
+- Documentation updates (Q1)
+- New Contributor Support (Q1-Q2)
+- API User Dashboard (Q2-Q3)
 
 **[Get in touch](mailto:contact@openstates.org) if you're interested in helping or giving feedback as we build a better Open States.**
 
