@@ -4,7 +4,7 @@ author: James Turk
 title: Tracking Legislation on OpenStates.org
 ---
 
-We're excited to announce that your most-requested feature, bill tracking and alerts, has come to the new OpenStates.org!
+We're excited to announce that our most-requested feature, bill tracking and alerts, has come to the new OpenStates.org!
 
 Here's what's new:
 
