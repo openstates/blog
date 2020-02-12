@@ -1,5 +1,5 @@
 ---
-date: 2020-02-03
+date: 2020-02-13
 author: James Turk
 title: Tracking Legislation on OpenStates.org
 ---
