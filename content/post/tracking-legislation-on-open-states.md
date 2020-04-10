@@ -4,6 +4,11 @@ author: James Turk
 title: Tracking Legislation on OpenStates.org
 ---
 
+
+**Update:** For an evergreen version of this post and a guide on how to use our new feature see **https://openstates.org/about/subscriptions/**
+
+
+
 We're excited to announce that our most-requested feature, bill tracking and alerts, has come to the new OpenStates.org!
 
 Here's what's new:
