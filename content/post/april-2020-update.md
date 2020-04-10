@@ -11,7 +11,7 @@ I wanted to give an update on where we're at on our [2020 Roadmap](https://docs.
 Bill Tracking For Everyone
 --------------------------
 
-In case you missed the announcement in February, we now have [bill tracking & notification features](https://blog.openstates.org/tracking-legislation-on-open-states/) available on OpenStates.org with more to come soon.  We're excited to be providing this feature completely free for now, and are committed to continuing with a generous free tier once we bring the service out of beta.
+In case you missed the announcement in February, we now have [bill tracking & notification features](https://openstates.org/about/subscriptions/) available on OpenStates.org with more to come soon.  We're excited to be providing this feature completely free for now, and are committed to continuing with a generous free tier once we bring the service out of beta.
 
 If you find yourself tracking legislation either as part of your job, activism, or just to stay informed- this tool is one you'll want to check out.
 
