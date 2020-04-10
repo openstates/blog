@@ -59,4 +59,4 @@ And for the curious, our priorities going forward through the spring will be:
 
 **If you'd like to make a contribution to support this work, [donate today](https://openstates.org/donate/) or [subscribe to our Patreon](https://patreon.com/openstates)!**
 
-We'll be posting more regular updates throughout the year, so if you haven't already, please [follow us on twitter](https://twitter.com/openstates) and sign up for our [mailing list](https://mailchi.mp/16377011c32f/openstates).
+We'll be posting more regular updates throughout the year, so if you haven't already, please [follow us on twitter](https://twitter.com/openstates) and sign up for our [mailing list](https://openstates.org/mailing-list/).

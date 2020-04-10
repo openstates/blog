@@ -33,7 +33,7 @@ googleAnalytics = "UA-143711479-2"
 
 [[menu.main]]
     name = "Mailing List"
-    url = "https://mailchi.mp/16377011c32f/openstates"
+    url = "https://openstates.org/mailing-list/"
     weight = 4
 
 [[menu.main]]

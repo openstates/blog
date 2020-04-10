@@ -65,4 +65,4 @@ Coming Soon
 
 Of course, we're not done yet.  We're looking to enable multi-state search subscriptions as soon as we're sure the system can handle it, and we'll also be adding a way to follow specific legislators so you can see what your representatives are up to.
 
-That work, [and a lot more](https://blog.openstates.org/2020-roadmap/), is in progress -- stay tuned by [following us on twitter](https://twitter.com/openstates) and signing up for our [mailing list](https://mailchi.mp/16377011c32f/openstates).
+That work, [and a lot more](https://blog.openstates.org/2020-roadmap/), is in progress -- stay tuned by [following us on twitter](https://twitter.com/openstates) and signing up for our [mailing list](https://openstates.org/mailing-list/).

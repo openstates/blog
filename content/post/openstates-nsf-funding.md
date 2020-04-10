@@ -22,4 +22,4 @@ Of course these are just the surface level changes that having full time staff w
 
 ---
 
-P.S. If you're looking to stay up to date, follow this blog, subscribe to our [mailing list](https://mailchi.mp/16377011c32f/openstates) and follow us on [Twitter](https://twitter.com/openstates).
+P.S. If you're looking to stay up to date, follow this blog, subscribe to our [mailing list](https://openstates.org/mailing-list/) and follow us on [Twitter](https://twitter.com/openstates).

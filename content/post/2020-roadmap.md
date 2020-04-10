@@ -89,6 +89,6 @@ And finally, we're going to spend a lot of time working to grow our community.  
 
 **If you'd like to make an end-of-year contribution, [donate today](https://openstates.org/donate/)!**
 
-If you haven't already, please sign up for our [mailing list](https://mailchi.mp/16377011c32f/openstates).
+If you haven't already, please sign up for our [mailing list](https://openstates.org/mailing-list/).
 
 We'll keep an updated version of [this roadmap in the documentation](https://docs.openstates.org/en/latest/contributing/overview.html#roadmap).

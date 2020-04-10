@@ -60,6 +60,7 @@ While we know the primary use case of Open States is to track legislation going 
 Up Next
 -------
 
-A big focus for the next couple of months will be on data quality issues especially filling in gaps in vote data, improving categorization, and legislator name matching.  We'll be posting more regular updates throughout the year, so if you haven't already, please [follow us on twitter](https://twitter.com/openstates) and sign up for our [mailing list](https://mailchi.mp/16377011c32f/openstates).
+A big focus for the next couple of months will be on data quality issues especially filling in gaps in vote data, improving categorization, and legislator name matching.  We'll be posting more regular updates throughout the year, so if you haven't already, please [follow us on twitter](https://twitter.com/openstates) and sign up for our [mailing list](https://openstates.org/mailing-list/).
+
 
 **If you'd like to make a contribution to support this work, [donate today](https://openstates.org/donate/)!**
