@@ -1,7 +1,7 @@
 ---
 date: 2013-03-11
 author: James Turk
-title: "Open States: Transparency Report Card"
+title: "Open States Transparency Report Card"
 ---
 
 **This post originally appeared at https://sunlightfoundation.com/2013/03/11/openstates-report-card/ but has moved here for posterity.**
