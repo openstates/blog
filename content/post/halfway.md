@@ -1,7 +1,7 @@
 ---
 date: 2011-05-06
 author: James Turk
-title: "Open State Project API"
+title: "Halfway to 50"
 ---
 
 **This page originally appeared at https://sunlightfoundation.com/2011/05/06/open-states-halfway/ but has been replicated here for posterity.**
