@@ -1,7 +1,7 @@
 ---
 date: 2011-09-12
 author: James Turk
-title: "Open States Transparency Report Card"
+title: "Open States API, 1 Year Later"
 ---
 
 **This post originally appeared at **https://sunlightfoundation.com/2011/09/12/open-states-api-1-yr-later/** but has been moved here for posterity.**
