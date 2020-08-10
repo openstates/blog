@@ -46,6 +46,8 @@ We'll be releasing a new API v3 which will fully deprecate API v1, while the Gra
 
 This should give users plenty of time to migrate from v1 to either the GraphQL API or API v3, whichever works for them.
 
+If you're interested in using API v3, or following along with development please [chime in on the RFC issue](https://github.com/openstates/issues/issues/28).
+
 ## Helping Open States
 
 There are many ways to help Open States, and we've added a new helping page detailing how you can:
