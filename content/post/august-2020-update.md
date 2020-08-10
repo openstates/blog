@@ -53,8 +53,7 @@ There are many ways to help Open States, and we've added a new helping page deta
 - help make small data fixes or improvements
 - contribute to Open States' code
 - provide feedback on new features
-- help Open States attract funding, and build a sustainable
-- contribute financially to Open States
+- help Open States attract funding, and build a sustainable future for the project
 
 Check out the [guide to contributing](https://openstates.org/about/contributing/) to learn more!
 
