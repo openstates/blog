@@ -14,7 +14,7 @@ While the API itself is in beta form, it is powered by the same data as API v2 (
 
 For this initial release we've focused on the most commonly used features of the current API, starting today you can:
 
-* query for metadata on all available jurisdictions: the 50 states, DC, Puerto Rico, and the [experimental municipal data we've begun to support](TODO).
+* query for metadata on all available jurisdictions: the 50 states, DC, Puerto Rico, and the [experimental municipal data we've begun to support](https://blog.openstates.org/august-2020-update/#governors-mayors).
 * list or search for current legislators (with filtering by their current roles, names, etc.)
 * query for legislators that represent a given latitude & longitude
 * search bills by various attributes, including full text search
@@ -30,7 +30,20 @@ These methods comprise what we're releasing today, you can browse the documentat
 
 These docs are aimed at being functional right now, we'll be working to flesh out the docs a bit more to explain concepts to new users but if you've already used Open States' data things should be pretty familiar.
 
-Here are some answers to anticipated questions:
+---
+
+**[Get in touch](mailto:contact@openstates.org) if you're interested in helping or giving feedback as we build a better Open States.**
+
+**If you'd like to make an contribution to support this work, [donate today](https://openstates.org/donate/)!**
+
+---
+
+![](/img/openapi-v3.png)
+[Thanks to FastAPI we have complete interactive API Documentation - try it out!](https://v3.openstates.org/docs)
+
+---
+
+## Answers to Anticipated Questions
 
 ### Do I need an API key?
 
@@ -53,3 +66,7 @@ Yes, the new API has the concept of includes, by specifying ``?include=sponsorsh
 ### What about API limits?
 
 API limits are not yet determined or enforced on v3.  They *will* return, and hopefully with better ways to check your key against the various quotas and automatically request quota increases.  We aim for most users to remain in the free tier as always, but if you have any concerns or assume you're in the top 20% of users it might be worth [reaching out](mailto:contact@openstates.org) to discuss your plans and help in form our tiers before they go live.
+
+### What about official client libraries?
+
+Updating pyopenstates is on the TODO list, it never got a proper update for v2 but v3 is more aligned with its existing structure and should happen before too long.  If you'd like to help contribute a client library please reach out!
