@@ -34,6 +34,6 @@ The plan is to fully remove the endpoints after the bulk of 2021 sessions have e
 
 It's that time of the year, elections are done and states are beginning to prepare for upcoming sessions.  We have a plan in place and will be aiming to update state information as quickly as possible throughout December and January as states come back online.
 
-If you're curious about the status of a particular state or up for helping out we have two tracking issues you can check out [the document where we're tracking all of this](https://v3.openstates.org/bills/Utah/2020/H.B.%20423?apikey=10ca920d-abde-4535-8667-f088a7ebc462), and request access if you are hoping to help.
+If you're curious about the status of a particular state or up for helping out we have two tracking issues you can check out [the document where we're tracking all of this](https://docs.google.com/spreadsheets/d/1dMHwaMXH_eFd-DP62PC0OehLaYgrXjYC6lbq-ocSW_Q/edit#gid=0), and request access if you are hoping to help.
 
 Thanks for reading and stay tuned here and/or follow [@openstates](https://twitter.com/openstates) on twitter, as we have a bit more exciting news coming before the end of the year!
