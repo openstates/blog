@@ -25,7 +25,8 @@ For more details on API v3:
 
 ## API v1 is going away!
 
-As mentioned previously, this milestone will also mark the formal deprecation date of API v1.
+As mentioned previously, this milestone will also mark the formal end date of API v1 support.  API v1 was deprecated back in 2018 and we strongly encourage users to migrate to API v2 or v3, the lift to move from v1 to v3 should be minimal.
+
 From this point on API v1 access will be limited to keys that already use it, and throttled to encourage users to upgrade.  If you're still using API v1 and haven't gotten in touch, [please do so](mailto:contact@openstates.org).
 
 The plan is to fully remove the endpoints after the bulk of 2021 sessions have ended, or usage has decreased to the point that it seems reasonable to stop maintaining them.
