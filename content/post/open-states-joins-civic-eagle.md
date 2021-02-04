@@ -33,4 +33,5 @@ I’m joining Civic Eagle as its new Director of Public Data because I know that
 Thank you for sticking with me,
 
 James Turk
+
 Director of Public Data, Civic Eagle
