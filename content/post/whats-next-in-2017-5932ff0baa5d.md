@@ -49,7 +49,7 @@ Additionally, we’re also planning to award small grants to individuals, in ord
 
 There are a few ways you can support this work:
 
-* *Individuals*: if you’re a supporter and want to see Open States thrive, we’re now set up to receive tax-exempt donations of all sizes. You can continue to donate via our [fundraising page](https://www.generosity.com/fundraising/open-states-general-support-fund) or [contact us](mailto:funding@openstates.org).
+* *Individuals*: if you’re a supporter and want to see Open States thrive, we’re now set up to receive tax-exempt donations of all sizes. You can continue to donate via our [fundraising page](https://www.generosity.com/fundraising/open-states-general-support-fund) or [contact us](mailto:contact@openstates.org).
 
 * *Organizations*: if you’re part of an organization that uses Open States, please consider donating to help us continue to improve the data and platform. And if your organization values a particular feature or type of data collected by Open States, we’re happy to discuss ensuring that your donation directly supports that work.
 

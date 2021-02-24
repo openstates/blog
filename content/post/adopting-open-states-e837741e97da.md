@@ -35,7 +35,7 @@ If you’re an individual who would like to donate to this general fund:
 
 [**Please Donate Today](https://www.generosity.com/fundraising/open-states-general-support-fund/x/15330084)**.
 
-If you’re interested in making a larger or institutional donation, or funding a specific piece of development, such as a feature or particular state, please [get in touch with us](mailto:funding@openstates.org).
+If you’re interested in making a larger or institutional donation, or funding a specific piece of development, such as a feature or particular state, please [get in touch with us](mailto:contact@openstates.org).
 
 Second, we’re looking for individuals who are willing to help out in other ways. The main task would be to update and (in the future) maintain state scrapers, but we’d absolutely welcome other offers of support, including non-technical work. We’ve set up a [volunteer survey](https://docs.google.com/forms/d/e/1FAIpQLSfMDjoVoKxSOciIiqE3Ofxgn-caFGCxicFO2LwyWAK8zdXyhg/viewform) to help us keep track of these kinds of offers. If you think you could help in any way, please fill it out and we’ll be in touch ASAP.
 
