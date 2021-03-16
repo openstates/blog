@@ -32,11 +32,6 @@ googleAnalytics = "UA-143711479-2"
     weight = 1
 
 [[menu.main]]
-    name = "Mailing List"
-    url = "https://openstates.org/mailing-list/"
-    weight = 4
-
-[[menu.main]]
     name = "Donate"
     url = "https://openstates.org/donate/"
     weight = 5
