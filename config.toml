@@ -30,8 +30,3 @@ googleAnalytics = "UA-143711479-2"
     name = "OpenStates.org"
     url = "https://openstates.org/"
     weight = 1
-
-[[menu.main]]
-    name = "Donate"
-    url = "https://openstates.org/donate/"
-    weight = 5
