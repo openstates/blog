@@ -22,10 +22,10 @@ Some scrapers will only require ~100 lines of code, can be written in a day or t
 ### 4. Utilize lxml methods and properties
 With good CSS and XPath selectors, it’s often not necessary to use the full breadth of lxml methods and properties. However, it’s good to keep in mind that lxml can provide you with some creative solutions for grabbing specific items from a page. I found the getnext() and itersiblings() methods as well as the .tail property to be helpful in situations where selectors fell short.
 
-I found this to be a useful [lxml reference](https://lxml.de/api/lxml.etree._Element-class.html#findtext) while scraping.
+I found this to be a useful [lxml reference](https://lxml.de/api/lxml.etree._Element-class.html) while scraping.
 
 ### 5. Regex can be very useful (and kind of fun)
-Regex is useful in grabbing specific text within a larger html text element. In particular, I used re.search(), re.sub(), and capturing groups most often. I found it helpful to have the [regex docs](https://docs.python.org/3/library/re.html) and this [regex practice site](https://regex101.com/r/n0qYCl/1/) open while scraping.
+Regex is useful in grabbing specific text within a larger html text element. In particular, I used re.search(), re.sub(), and capturing groups most often. I found it helpful to have the [regex docs](https://docs.python.org/3/library/re.html) and this [regex practice site](https://regex101.com/) open while scraping.
 
 ### 6. Look back at the spatula API once in a while
 While scraping, it's easy to forget the full depth and functionality of the spatula library. Luckily, James has written some excellent [documentation on spatula](https://jamesturk.github.io/spatula). Taking a glance at the [spatula API](https://jamesturk.github.io/spatula/reference/) from time to time helped remind me of its extensive functionality and flexibility.
