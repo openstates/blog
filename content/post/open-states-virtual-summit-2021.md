@@ -1,7 +1,7 @@
 ---
 date: 2021-12-21
 author: James Turk
-title: Open States Virtual Summit
+title: Open States Virtual Summit 2021
 ---
 
 Last week we had the Open States Virtual Summit; if you were able to join thank you so much for making this first ever virtual summit such a success!
