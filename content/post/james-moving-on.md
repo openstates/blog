@@ -39,7 +39,7 @@ Civic Eagle was founded in the knowledge that there are big accessibility barrie
 
 ### Who will be making decisions for the Open States project going forward?
 
-Civic Eagle owns the code repositories and cloud infrastructure that powers OpenStates.org, the API, public data, and scraping/ingestion pipeline. [Jesse](mailto:jesse@civiceagle.com[) will be the bottom line for strategy decisions, and [Rylie](mailto:rylie@civiceagle.com) will be the point person for day-to-day operations.
+Civic Eagle owns the code repositories and cloud infrastructure that powers OpenStates.org, the API, public data, and scraping/ingestion pipeline. [Jesse](mailto:jesse@civiceagle.com) will be the bottom line for strategy decisions, and [Rylie](mailto:rylie@civiceagle.com) will be the point person for day-to-day operations.
 
 ### Will James still be involved?
 
