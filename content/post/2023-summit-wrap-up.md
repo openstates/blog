@@ -9,6 +9,8 @@ title: Summit 2023 Wrap-up
 Thanks for everyone who attended our 2023 Summit, either virtually or in-person in Chicago! I want to provide a quick
 wrap-up for anyone who missed it. 
 
+![Summit hackathon participants](/img/2023-summit-participants.jpg)
+
 ### Watch the talks and tutorials
 
 We recorded our virtual and hybrid sessions so that you can catch up! Check out our 
@@ -45,6 +47,8 @@ opportunities if you want to watch the tutorial above and get started! Just pick
 anyone yet, and find us on the [chat space](https://matrix.to/#/#open-states:matrix.org) with any questions.
 
 ### Sponsorship
+
+![U Chicago Harris School](/img/2023-summit-uchicago-future.jpg)
 
 The [University of Chicago's Harris School of Public Policy](https://harris.uchicago.edu/) was very generous in hosting 
 us, providing great space at the Keller Center. We got to meet and work with cool students from their Computational 
